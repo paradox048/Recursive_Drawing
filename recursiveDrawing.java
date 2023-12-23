@@ -1,6 +1,5 @@
 /**
  * @name Derek Duong
- * @Date Nov 3 2020
  * This program uses recursion to draw out three shapes:
  * - A circle that prints a circle within that circle that's half the radius. This continues until 10 circles have been drawn
  * - A Ruler that has has ticks to mark the length. The largest length is in the middle and splits to half of its length left and right
